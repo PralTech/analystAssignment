@@ -31,4 +31,4 @@ You need to have Node.js and npm (Node Package Manager,, Nodmon to auto run serv
 1. Clone the repository to your local machine using Git:
 
    ```shell
-   git clone https://github.com/your-username/user-list-web-app.git
+   git clone https://github.com/PralTech/analystAssignment.git
